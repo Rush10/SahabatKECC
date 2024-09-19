@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Bonus Poin 1.000Wajib diisi sebelum tukar pointData AlamatMasukkan Informasi Alamat untuk pengiriman hadiah</name>
+   <tag></tag>
+   <elementGuidId>16374165-2188-4d59-890f-b310064d8abc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section[2]/section[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>c7d6004d-3abd-499e-8ee5-aa29368268b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-solid border-[#D0D0D0] rounded-lg space-y-4 mx-6 cursor-pointer</value>
+      <webElementGuid>cdf32675-97c0-430f-9b56-91dcb85c67f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bonus Poin 1.000*Wajib diisi sebelum tukar pointData AlamatMasukkan Informasi Alamat untuk pengiriman hadiah</value>
+      <webElementGuid>09a511f1-80f8-4882-ac20-c22b66b0916c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] p-[0]&quot;]/section[@class=&quot;space-y-6 pb-6&quot;]/section[@class=&quot;border border-solid border-[#D0D0D0] rounded-lg space-y-4 mx-6 cursor-pointer&quot;]</value>
+      <webElementGuid>bdb32e5f-f2cb-4e66-9d9e-7e50aef508c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section[2]/section[3]</value>
+      <webElementGuid>53f7ae5b-6801-45e7-816c-cbea685a0d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[2]/following::section[1]</value>
+      <webElementGuid>30068372-b152-4b9a-af7e-5ce7508701d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update data diri'])[1]/following::section[1]</value>
+      <webElementGuid>268a36c0-abbb-4c7c-9196-25bdcb234df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Email'])[1]/preceding::section[1]</value>
+      <webElementGuid>44471301-6085-4f00-928f-08cd82b2962e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]</value>
+      <webElementGuid>892138e1-3d02-4261-9860-6207c3971c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Bonus Poin 1.000*Wajib diisi sebelum tukar pointData AlamatMasukkan Informasi Alamat untuk pengiriman hadiah' or . = 'Bonus Poin 1.000*Wajib diisi sebelum tukar pointData AlamatMasukkan Informasi Alamat untuk pengiriman hadiah')]</value>
+      <webElementGuid>e85f66c2-bf82-4332-9eda-fe59e14d462e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_remove</name>
+   <tag></tag>
+   <elementGuidId>4f9aef9e-83ad-4672-8593-633a6203ce95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[3]/div/div/div[2]/div[2]/button/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb50c6e8-9a46-4d30-bc7b-f5ceb6852cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center</value>
+      <webElementGuid>1480bea5-0c8f-43cd-b14f-af09850c5f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>remove</value>
+      <webElementGuid>73bb9c2c-8c4d-4cb4-95df-a054f8fbb2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]/div[@class=&quot;flex flex-col justify-between space-y-4&quot;]/div[1]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center space-x-4 bg--primary-200 w-full max-w-[150px] p-[8px] rounded-md&quot;]/button[@class=&quot;button button--primary w-[40px] h-[40px] p-0&quot;]/div[@class=&quot;flex items-center justify-center&quot;]</value>
+      <webElementGuid>d97f5460-d8c8-4506-9462-1e78f3bba4eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[3]/div/div/div[2]/div[2]/button/div</value>
+      <webElementGuid>762da7e2-1466-4dce-942d-c94b8a336a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Minggu)'])[1]/following::div[2]</value>
+      <webElementGuid>e8c5d5e5-2d94-49bc-a8ed-deecbd44fe24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia Kehamilan'])[1]/following::div[2]</value>
+      <webElementGuid>541c1b2d-b531-4570-acb1-45ac26a90ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[1]/preceding::div[2]</value>
+      <webElementGuid>8a2cd62f-a7aa-4130-8ecb-6344b8fc643a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>a8a04797-3f5a-43b8-9c7c-6ed859f1dc51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'remove' or . = 'remove')]</value>
+      <webElementGuid>1f1b4b65-fc94-42ee-b341-74aec3a15326</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

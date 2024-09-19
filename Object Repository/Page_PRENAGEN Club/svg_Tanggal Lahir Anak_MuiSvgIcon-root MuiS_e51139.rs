@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Tanggal Lahir Anak_MuiSvgIcon-root MuiS_e51139</name>
+   <tag></tag>
+   <elementGuidId>c63ec3f7-eba6-4e23-a142-58c2d6ac17ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4c822d0f-56f9-4b0c-a2d6-cf809430ac5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv</value>
+      <webElementGuid>08b225a5-8d52-466d-b1f0-89d6e819608d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>06f812d5-f875-4566-858d-560450ab9919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>63c98ccd-9601-4a26-831d-0350ac21f7cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1742ac48-cf51-4cf4-8325-52a152c084c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>CalendarIcon</value>
+      <webElementGuid>0ad64e43-f10b-43cb-9541-5da1815b33f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]/div[@class=&quot;flex flex-col justify-between space-y-4&quot;]/div[1]/div[@class=&quot;space-y-4&quot;]/div[2]/div[@class=&quot;form--input form-input--label&quot;]/div[@class=&quot;relative flex items-center&quot;]/div[@class=&quot;absolute right-[16px]&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd css-1nvf7g0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-slyssw&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv&quot;]</value>
+      <webElementGuid>833ce52b-4545-4dea-92d0-6d4a01d90737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>154074c6-8065-46b9-b028-694c7336f7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi saat ini'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>8c3a9b76-10be-4b5b-8042-2eb9cb176775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>41d41dae-2ef1-4c7b-8af8-a8477d9ebfb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

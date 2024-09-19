@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_KEMBALI KE BERANDA</name>
+   <tag></tag>
+   <elementGuidId>5c16b656-374e-4c0b-9ada-30a15f611a15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--primary.button--base.button--outlined.button--block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56358719-e705-4cf2-815f-80b1e793aae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bcb891e1-c6e1-476e-ad00-e33ceb2b9ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--primary button--base button--outlined button--block</value>
+      <webElementGuid>b99ffc24-5275-4bfb-b5a2-69e67acb6ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unq</name>
+      <type>Main</type>
+      <value>profile-progress-update-profile-button-success-to-dashboard</value>
+      <webElementGuid>8a59bf02-4d78-40e5-8d29-e0d20872e7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KEMBALI KE BERANDA</value>
+      <webElementGuid>26214f91-60b4-4c5d-8465-e704b5d8a34d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/div[@class=&quot;flex flex-col justify-between h-full my-3&quot;]/section[@class=&quot;flex flex-col w-full space-y-4 justify-end&quot;]/div[@class=&quot;w-full&quot;]/button[@class=&quot;button button--primary button--base button--outlined button--block&quot;]</value>
+      <webElementGuid>8b7b8fd2-92cc-42ac-a340-6a1bdbf8c929</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>b7fe7961-36ee-4af1-9c43-00141e24ddb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div/section/div[2]/button</value>
+      <webElementGuid>89d51687-6580-4c0e-8764-a16ed35bd414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNGGAH STRUK'])[1]/following::button[1]</value>
+      <webElementGuid>f384d3f0-3b81-40da-b669-e2be432c4eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::button[2]</value>
+      <webElementGuid>bc9f3102-0827-48d1-8e27-6c5c0e29b994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KEMBALI KE BERANDA']/parent::*</value>
+      <webElementGuid>1283b259-e8e8-4512-82bb-3108344a177c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>fa807c7b-25bd-4c2c-bddc-5e10951889a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'KEMBALI KE BERANDA' or . = 'KEMBALI KE BERANDA')]</value>
+      <webElementGuid>7b9f33e1-7da5-4727-8bfa-855e15a76c3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

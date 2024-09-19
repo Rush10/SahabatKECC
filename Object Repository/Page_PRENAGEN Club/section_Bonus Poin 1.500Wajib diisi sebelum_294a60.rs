@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Bonus Poin 1.500Wajib diisi sebelum_294a60</name>
+   <tag></tag>
+   <elementGuidId>86781761-f27a-4264-965b-929b5ad44569</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section[2]/section[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>6dd83820-145f-4f84-b3de-8501bb371302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-solid border-[#D0D0D0] rounded-lg space-y-4 mx-6 cursor-pointer</value>
+      <webElementGuid>3ad3e4da-4556-4fc2-853e-d5c66eef1ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bonus Poin 1.500*Wajib diisi sebelum unggah strukUpdate data diriUpdate data diri kamu untuk info promo menarik</value>
+      <webElementGuid>a3bd10a7-83cd-46b1-9b38-72fb30c3b927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] p-[0]&quot;]/section[@class=&quot;space-y-6 pb-6&quot;]/section[@class=&quot;border border-solid border-[#D0D0D0] rounded-lg space-y-4 mx-6 cursor-pointer&quot;]</value>
+      <webElementGuid>d62dec46-525d-46fb-8455-b2fcff1aa466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section[2]/section[2]</value>
+      <webElementGuid>8a380a3e-3b5b-4a96-a5d5-08e40a744c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check_circle'])[1]/following::section[1]</value>
+      <webElementGuid>96a1f779-79f7-420d-a469-2b056f98a9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pola Konsumsi'])[1]/following::section[1]</value>
+      <webElementGuid>f19f559e-b75c-4e97-997b-7a0ff29cbce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Alamat'])[1]/preceding::section[1]</value>
+      <webElementGuid>a91c0e4d-2f00-4fc3-a6dd-74a5981a2772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/section[2]</value>
+      <webElementGuid>84f57ab9-c270-4da1-b748-c57ec469ee0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Bonus Poin 1.500*Wajib diisi sebelum unggah strukUpdate data diriUpdate data diri kamu untuk info promo menarik' or . = 'Bonus Poin 1.500*Wajib diisi sebelum unggah strukUpdate data diriUpdate data diri kamu untuk info promo menarik')]</value>
+      <webElementGuid>8e273457-f999-4c93-bcba-b3f0921cc964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

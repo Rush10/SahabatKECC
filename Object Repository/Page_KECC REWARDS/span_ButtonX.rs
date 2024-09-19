@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ButtonX</name>
+   <tag></tag>
+   <elementGuidId>ac21d770-f15d-4b55-a1fc-16fe90e9157e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-3xl.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e412c8ba-2384-4d05-8da0-b2ecec2cda03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-3xl cursor-pointer</value>
+      <webElementGuid>3ff2529d-9c8f-401e-b31f-7cbc800445b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>f3640d9a-72d0-4c1c-9a23-3f14d14974ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;opacity-100 pointer-events-auto grid place-items-end overflow-x-hidden overflow-y-auto fixed inset-0 outline-none focus:outline-none transition-all duration-500&quot;]/div[@class=&quot;flex justify-center transform opacity-100 translate-y-0 w-full m-0 mx-auto max-w-full transition-all duration-500&quot;]/div[@class=&quot;relative border-0 py-0 rounded-b-none shadow-3xl flex flex-col w-full max-w-[480px] bg-white outline-none focus:outline-none max-h-[90vh] overflow-hidden rounded-t-3xl&quot;]/div[@class=&quot;relative flex-auto px-4 py-4 h-full flex-grow-1 overflow-auto&quot;]/div[@class=&quot;space-y-10&quot;]/div[@class=&quot;space-y-4&quot;]/div[@class=&quot;flex justify-end&quot;]/span[@class=&quot;text-3xl cursor-pointer&quot;]</value>
+      <webElementGuid>6a0dbaf9-3e5f-48c5-b521-503c954d188b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_KECC REWARDS/iframe</value>
+      <webElementGuid>ad5ceb44-ac0c-43f8-b3d2-df57d93e2ab9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>d3a58f6c-be7d-409b-9b93-b40ca063e6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[1]/following::span[1]</value>
+      <webElementGuid>33b647b6-df8e-422f-8016-ac09cc817137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::span[1]</value>
+      <webElementGuid>d203f8b4-585f-4819-b941-dff93768df62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/preceding::span[1]</value>
+      <webElementGuid>73ac85da-df07-4c98-9de6-f78987a03ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih salah satu metode dibawah ini untuk proses verifikasi'])[1]/preceding::span[1]</value>
+      <webElementGuid>370bfadf-35a6-4b3e-a8c0-e6c46a39c068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='×']/parent::*</value>
+      <webElementGuid>b4fd8c5f-5247-4f69-8f22-3bfa02d2fac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/span</value>
+      <webElementGuid>5122da51-b825-4d02-a0c1-ee6493650fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>c13198bc-9ee1-47f3-b323-51bf6dc2c5f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

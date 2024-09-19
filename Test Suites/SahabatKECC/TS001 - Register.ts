@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Test Suite Register</description>
+   <name>TS001 - Register</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a3db9525-dfbe-4654-bd22-e2c303dc448e</testSuiteGuid>
+   <testCaseLink>
+      <guid>716501ef-f390-487c-9b07-a827ae991a99</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SahabatKECC/TC001 - Register</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6a017df3-b346-4262-bc14-23cac5317354</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1-5,9-10</value>
+         </iterationEntity>
+         <testDataId>Data Files/TD001 - Register</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6a017df3-b346-4262-bc14-23cac5317354</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TestDataID</value>
+         <variableId>916fbd02-7a05-4eeb-83a2-76cf2f159b57</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6a017df3-b346-4262-bc14-23cac5317354</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PhoneNumber</value>
+         <variableId>c6a16f4e-c786-426c-afa0-db1092419ae8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6a017df3-b346-4262-bc14-23cac5317354</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RefCode</value>
+         <variableId>7fd8e31c-7c0f-48fd-9af7-27c306eab928</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6a017df3-b346-4262-bc14-23cac5317354</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CheckTAC</value>
+         <variableId>e51ed1e9-4a26-4ccb-a3bc-f7006c80023f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6a017df3-b346-4262-bc14-23cac5317354</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Expected</value>
+         <variableId>a6bc1a80-734a-4577-b0cc-aacd44d965cf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

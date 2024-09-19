@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Laki-Laki</name>
+   <tag></tag>
+   <elementGuidId>2a2762ab-a625-436b-8051-12a019f9d198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69903f12-373a-49bb-a6b1-4bf7e595ab90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-solid border-[#DEDEDE] rounded-lg py-4 pl-4 pr-10 flex items-center justify-center gap-x-3 cursor-pointer</value>
+      <webElementGuid>f9d51939-6389-4b7a-be08-7658049291c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laki-Laki</value>
+      <webElementGuid>beabb6e3-cc79-4ac8-9197-15951b56aac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]/div[@class=&quot;flex items-center justify-around&quot;]/div[@class=&quot;border border-solid border-[#DEDEDE] rounded-lg py-4 pl-4 pr-10 flex items-center justify-center gap-x-3 cursor-pointer&quot;]</value>
+      <webElementGuid>b2db1e8a-6208-4c26-b6f2-28c24b0a1063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[2]/div</value>
+      <webElementGuid>a3b01527-8167-4eb3-aae5-935f48dff959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir'])[1]/following::div[5]</value>
+      <webElementGuid>8f97cf04-1a37-4978-8335-94bad07a4ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update data diri'])[1]/following::div[9]</value>
+      <webElementGuid>ebb2ed36-af74-4ff2-bf53-f7737047661b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN'])[1]/preceding::div[2]</value>
+      <webElementGuid>6ee55227-9582-4603-bf7f-2f0ea582d7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>6dcdd903-623c-4762-abad-adc7ae8d5b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Laki-Laki' or . = 'Laki-Laki')]</value>
+      <webElementGuid>7855a60b-3316-4878-bad4-596868d5f50e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

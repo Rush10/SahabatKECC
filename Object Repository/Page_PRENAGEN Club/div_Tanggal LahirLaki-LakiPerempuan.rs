@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tanggal LahirLaki-LakiPerempuan</name>
+   <tag></tag>
+   <elementGuidId>3a4f8fd2-3a1d-4e95-b7d3-5502aaaad844</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.space-y-4.h-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c953851d-5e53-46cb-bf1f-7b7bcf3be475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>space-y-4 h-full</value>
+      <webElementGuid>bb2f2502-e4bd-4105-9e36-c1e3d8698028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggal LahirLaki-LakiPerempuan</value>
+      <webElementGuid>b7ef5c87-d16a-460d-b83c-7e4d7bcb3e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]</value>
+      <webElementGuid>4ba6a724-95f0-4f2d-8ef7-5fb8c8d3de1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section/form/div</value>
+      <webElementGuid>6ab3d46a-12e1-45ec-948f-a7b9a6c1197d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update data diri'])[1]/following::div[1]</value>
+      <webElementGuid>a244b6f4-3bdb-45e3-bd4e-3c0dae0bee7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_back'])[1]/following::div[4]</value>
+      <webElementGuid>fe3d5177-90be-4966-b900-d266c9c31fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN'])[1]/preceding::div[10]</value>
+      <webElementGuid>54fc8c62-c526-41a5-bcaf-a32a39bdb817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>48e34bdd-ed16-48f4-95dd-15f177f990ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tanggal LahirLaki-LakiPerempuan' or . = 'Tanggal LahirLaki-LakiPerempuan')]</value>
+      <webElementGuid>ccde484b-6927-484b-8fde-bb7ef1628bda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Syarat  Ketentuan</name>
+   <tag></tag>
+   <elementGuidId>0e1934b8-bf57-4e9c-8f13-1987c356d01c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/form/div/div[2]/div/div[2]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.font-semibold.clr-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc2900cb-afac-49c3-9378-02d9403733d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold clr-primary</value>
+      <webElementGuid>614e8366-45fe-41f0-844a-11b60810bcf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unq</name>
+      <type>Main</type>
+      <value>register-button-tos</value>
+      <webElementGuid>ab1ab20e-031a-4c36-ad68-645fe3e6c205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat &amp; Ketentuan</value>
+      <webElementGuid>7dac79e0-be42-4eb0-8753-cb25dd894dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] flex flex-col justify-between overflow-auto&quot;]/form[@class=&quot;relative w-full h-full&quot;]/div[@class=&quot;flex flex-col h-full justify-between space-y-4&quot;]/div[@class=&quot;pb-[24px]&quot;]/div[@class=&quot;flex justify-start space-x-4&quot;]/div[2]/p[@class=&quot;mb-[12px] clr-gray-600&quot;]/a[@class=&quot;font-semibold clr-primary&quot;]</value>
+      <webElementGuid>6db027b7-0aab-4cf3-a23d-54ecf5048146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_KECC REWARDS/iframe</value>
+      <webElementGuid>80c072d2-479c-42b9-9d7b-4733859a3ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/form/div/div[2]/div/div[2]/p/a</value>
+      <webElementGuid>0097731e-d2f1-4414-be38-052f546a6295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syarat &amp; Ketentuan')]</value>
+      <webElementGuid>6451d8be-505a-4df7-adb2-d1f63ef40898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Code tidak ditemukan.'])[1]/following::a[1]</value>
+      <webElementGuid>56376a18-0bfc-4211-b009-6286d9be615f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::a[1]</value>
+      <webElementGuid>a7ff1264-e93c-4892-be8a-e85afaa2e898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>4abb4521-c33d-4cea-be52-5ade3f212c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[1]/preceding::a[2]</value>
+      <webElementGuid>23b5b3c0-58ab-417b-9ab6-a272e7839b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Syarat &amp; Ketentuan']/parent::*</value>
+      <webElementGuid>8ae8100e-2e50-41d0-b9cb-bb92a0571aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>0f2d0e1b-d434-4dd0-93d6-22710ac13fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Syarat &amp; Ketentuan' or . = 'Syarat &amp; Ketentuan')]</value>
+      <webElementGuid>91716e8b-d8b9-4051-86f9-03f5709e3881</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

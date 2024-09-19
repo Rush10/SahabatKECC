@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Personal Data</description>
+   <name>TC001 - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa9b226-5a41-4bae-bff9-e9e890a8b4e3</testCaseGuid>
+</TestCaseEntity>

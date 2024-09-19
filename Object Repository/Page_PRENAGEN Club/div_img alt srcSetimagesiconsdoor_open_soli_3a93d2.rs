@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_img alt srcSetimagesiconsdoor_open_soli_3a93d2</name>
+   <tag></tag>
+   <elementGuidId>0aa774c8-ef86-49a8-9cd4-9c86bac1bce9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/section/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.gap-x-2.relative.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f80442db-e294-45c3-acee-72d937a63562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-x-2 relative cursor-pointer</value>
+      <webElementGuid>26c35fe2-3e38-4cfb-91d7-84114811d80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;img alt=&quot;&quot; srcSet=&quot;/images/icons/door_open_solid.svg 1x, /images/icons/door_open_solid.svg 2x&quot; src=&quot;/images/icons/door_open_solid.svg&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Login</value>
+      <webElementGuid>0083e651-05c4-4330-aa5a-1d272be4163d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/section[@class=&quot;flex px-7 py-2 justify-between items-center&quot;]/div[@class=&quot;flex gap-x-6&quot;]/div[@class=&quot;flex items-center gap-x-2 relative cursor-pointer&quot;]</value>
+      <webElementGuid>002c76a6-a2fe-4b24-93d3-341a5f722014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/section/div/div[2]</value>
+      <webElementGuid>9338bcc2-0651-401c-96b0-4a27da6e3699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::div[1]</value>
+      <webElementGuid>207df615-5b3b-4c95-b7af-7a12eff0e6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='help_outline'])[1]/following::div[1]</value>
+      <webElementGuid>a223a3d6-c38a-4675-a477-52c6c78b92ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRENAGEN Club'])[2]/preceding::div[1]</value>
+      <webElementGuid>c0e30bce-370e-4018-8396-b19a703279ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[2]</value>
+      <webElementGuid>bfe34b7d-c41a-43aa-967d-b8d4490c38bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;img alt=&quot;&quot; srcSet=&quot;/images/icons/door_open_solid.svg 1x, /images/icons/door_open_solid.svg 2x&quot; src=&quot;/images/icons/door_open_solid.svg&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Login' or . = '&lt;img alt=&quot;&quot; srcSet=&quot;/images/icons/door_open_solid.svg 1x, /images/icons/door_open_solid.svg 2x&quot; src=&quot;/images/icons/door_open_solid.svg&quot; decoding=&quot;async&quot; data-nimg=&quot;intrinsic&quot; style=&quot;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%&quot; loading=&quot;lazy&quot;/>Login')]</value>
+      <webElementGuid>78012b88-6b37-4e3e-b673-efa90dc99580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

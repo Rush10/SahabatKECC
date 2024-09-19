@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>fbc85ba9-4c73-4738-b433-608f03671c41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>fd669861-88a7-48de-b2af-c310b61a1e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M17 12h-5v5h5v-5zM16 1v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2h-1V1h-2zm3 18H5V8h14v11z</value>
+      <webElementGuid>3e96cca1-3cdb-4373-908d-2a238571ddb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]/div[@class=&quot;flex flex-col justify-between space-y-4&quot;]/div[1]/div[@class=&quot;space-y-4&quot;]/div[2]/div[@class=&quot;form--input form-input--label&quot;]/div[@class=&quot;relative flex items-center&quot;]/div[@class=&quot;absolute right-[16px]&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd css-1nvf7g0&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root MuiIconButton-edgeEnd MuiIconButton-sizeMedium css-slyssw&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv&quot;]/path[1]</value>
+      <webElementGuid>c8b2a365-0de6-44b8-a7f2-10ee63705e80</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

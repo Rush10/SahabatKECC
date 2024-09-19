@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Yuk diisi</name>
+   <tag></tag>
+   <elementGuidId>788d1a57-293a-492f-96fc-d71f11f34c19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div/section/div/section[2]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.clr-primary.text-lg.font-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c110a79f-588a-445e-a1f9-a4282f2df8c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clr-primary text-lg font-bold</value>
+      <webElementGuid>f95bb0a4-e1e4-4535-b05d-58ffd8345ce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile-progress</value>
+      <webElementGuid>fc1a4368-9535-4dd2-af72-5aa7c6a5a6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yuk diisi!</value>
+      <webElementGuid>a515b71b-f38e-4fcb-a413-eff77602995e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] p-[0]&quot;]/div[@class=&quot;relative px-[24px] pb-[16px] mb-[60px] bg--primary-200&quot;]/section[1]/div[@class=&quot;w-full -mb-[50px] space-y-4 rounded-md shadow-base px-[16px] py-[12px] bg-white space-x-3&quot;]/section[@class=&quot;bg--primary-200 rounded-md p-4&quot;]/p[1]/a[@class=&quot;clr-primary text-lg font-bold&quot;]</value>
+      <webElementGuid>5370b54e-a171-4939-b1ac-20e71d940a24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div/section/div/section[2]/p/a</value>
+      <webElementGuid>db1975e3-0276-43d9-97c0-4f711bc820db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Yuk diisi!')]</value>
+      <webElementGuid>e259ebb6-31e0-42b6-a527-8dad1dcddf39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info'])[1]/preceding::a[1]</value>
+      <webElementGuid>0be68caf-0d4e-4c91-a853-c84b40b2f262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yuk diisi!']/parent::*</value>
+      <webElementGuid>588632da-e8ed-4f82-8457-84bde92397b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profile-progress')]</value>
+      <webElementGuid>7c16a9e4-9ebf-45e8-bf6d-9201b7ef06d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>a0a61465-4b67-4a61-80f6-06c7b6726d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile-progress' and (text() = 'Yuk diisi!' or . = 'Yuk diisi!')]</value>
+      <webElementGuid>4670d9af-d179-45df-83d7-d7e38e3489d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

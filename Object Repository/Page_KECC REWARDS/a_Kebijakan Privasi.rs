@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kebijakan Privasi</name>
+   <tag></tag>
+   <elementGuidId>2ee78164-52f5-4431-a50f-c5795698d068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/form/div/div[2]/div/div[2]/p/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97d5221a-ac40-4e5d-9769-b3b1610348ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold clr-primary</value>
+      <webElementGuid>a6efd547-2e6c-4601-893b-835ffbf78035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unq</name>
+      <type>Main</type>
+      <value>register-button-privacyPolicy</value>
+      <webElementGuid>e4f74ade-7aa4-41be-8670-c0900d19dbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kebijakan Privasi</value>
+      <webElementGuid>a72af7f7-0a6c-4508-882a-e5fbedc799d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] flex flex-col justify-between overflow-auto&quot;]/form[@class=&quot;relative w-full h-full&quot;]/div[@class=&quot;flex flex-col h-full justify-between space-y-4&quot;]/div[@class=&quot;pb-[24px]&quot;]/div[@class=&quot;flex justify-start space-x-4&quot;]/div[2]/p[@class=&quot;mb-[12px] clr-gray-600&quot;]/a[@class=&quot;font-semibold clr-primary&quot;]</value>
+      <webElementGuid>6faaf590-c666-4376-8473-3c177ca73891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_KECC REWARDS/iframe</value>
+      <webElementGuid>682030c5-7d77-4aaf-8802-18cff314c45f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/form/div/div[2]/div/div[2]/p/a[2]</value>
+      <webElementGuid>f2c578c6-78bf-4255-9d14-af0eefa8ec18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kebijakan Privasi')]</value>
+      <webElementGuid>00ab6c12-f182-4f61-91dd-12f9edece30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat &amp; Ketentuan'])[1]/following::a[1]</value>
+      <webElementGuid>bbeb0cd0-edb8-43d5-bc8b-ba62b4287ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Code tidak ditemukan.'])[1]/following::a[2]</value>
+      <webElementGuid>3cd09de2-ca5f-4547-acbe-02aa04e5b1a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR'])[1]/preceding::a[1]</value>
+      <webElementGuid>a43f50d6-410f-4efb-ab17-2b2502983f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kebijakan Privasi']/parent::*</value>
+      <webElementGuid>28e1f03b-bf81-429b-ab14-b4a0b119df41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>7414a91d-d98a-4186-90fb-90f492e12c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Kebijakan Privasi' or . = 'Kebijakan Privasi')]</value>
+      <webElementGuid>88b5a9c5-9e4d-4f85-a7d8-063af9b6a410</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

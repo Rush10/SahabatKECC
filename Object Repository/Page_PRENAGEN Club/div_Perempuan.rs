@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Perempuan</name>
+   <tag></tag>
+   <elementGuidId>91cba2cf-7980-4f0b-9916-1ca9e2e6a062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>640c25b6-c257-4259-b42e-a5d854cc87d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-solid border-[#DEDEDE] rounded-lg py-4 pl-4 pr-10 flex items-center justify-center gap-x-3 cursor-pointer</value>
+      <webElementGuid>f83befc1-13db-4177-97a3-37db71c11696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perempuan</value>
+      <webElementGuid>f61e7253-7e23-4517-a355-d5b0b99180f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;w-full max-w-[480px] h-full p-[0px] my-0 mx-auto overflow-x-hidden bg-white&quot;]/section[@class=&quot;flex flex-col justify-between w-full h-full md:h-full&quot;]/div[@class=&quot;relative flex-[2] px-[24px] pb-[24px]&quot;]/section[@class=&quot;space-y-2 h-[80%]&quot;]/form[@class=&quot;space-y-4 flex flex-col h-full justify-between&quot;]/div[@class=&quot;space-y-4 h-full&quot;]/div[@class=&quot;flex items-center justify-around&quot;]/div[@class=&quot;border border-solid border-[#DEDEDE] rounded-lg py-4 pl-4 pr-10 flex items-center justify-center gap-x-3 cursor-pointer&quot;]</value>
+      <webElementGuid>20e1449c-5768-42dc-ab35-946691efaee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div[2]/section/form/div/div[2]/div[2]</value>
+      <webElementGuid>73473213-c2c8-4199-b982-640ef4d9e70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir'])[1]/following::div[6]</value>
+      <webElementGuid>f3e48bfc-193d-447a-823d-f28ecdf4b12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update data diri'])[1]/following::div[10]</value>
+      <webElementGuid>af3798d7-d17e-4dca-805d-18033a9de093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIMPAN'])[1]/preceding::div[1]</value>
+      <webElementGuid>cd67c3a3-a4b1-4cd0-8b32-4119e759db62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>69920d54-cec0-4960-966a-5a6c7cd3e10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Perempuan' or . = 'Perempuan')]</value>
+      <webElementGuid>1a24e913-fb2f-44dc-ab4b-569404428470</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
